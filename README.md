@@ -42,11 +42,10 @@ source venv/bin/activate  # ou venv\Scripts\activate no Windows
 pip install -r requirements.txt
 ```
 
-3. Execute os notebooks:
+3. Execute o notebook:
 
 ```bash
 jupyter notebook garbage-classification.ipynb
 ```
-
 
 
